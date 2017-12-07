@@ -1,0 +1,122 @@
+OBJECTID,state,phone,intake_prompt,hotline_prompt,latitude,longitude,type_facility,service,category_code,category_name,service_code
+1,MA,617-442-1499,,,42.333552,-71.066622,substance abuse,Methadone maintenance,TC,Type of Care,MM
+2,MA,413-528-9156,,,42.1976093,-73.35787,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+3,MA,413-499-0412,,,42.4481344,-73.2470997,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+4,MA,413-442-1400,,,42.459638,-73.2492284,substance abuse,Methadone maintenance for predetermined time,TC,Type of Care,MMW
+5,MA,413-442-0402 x765,,,42.4580497,-73.210879,substance abuse,Methadone maintenance,TC,Type of Care,MM
+6,MA,413-664-9024,,,42.6688647,-73.1075223,substance abuse,Methadone maintenance,TC,Type of Care,MM
+7,MA,413-664-4541,,,42.6965808,-73.1123305,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+8,MA,413-568-6600,,,42.13425,-72.740168,substance abuse,Methadone maintenance,TC,Type of Care,MM
+9,MA,413-584-4040 x2600,,,42.3471472,-72.6859614,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+10,MA,413-539-2973,,,42.165342,-72.635571,substance abuse,Methadone maintenance,TC,Type of Care,MM
+11,MA,413-539-2487,,,42.165342,-72.635571,substance abuse,Methadone,TC,Type of Care,METH
+12,MA,413-536-5111 x2984,Intakes,,42.1662091,-72.6335126,substance abuse,Methadone maintenance,TC,Type of Care,MM
+13,MA,413-341-1787,,,42.0954146,-72.6127596,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+14,MA,413-746-0051 x3182,,,42.1327298,-72.6132647,substance abuse,Methadone maintenance,TC,Type of Care,MM
+15,MA,413-733-3488 x1200,,,42.110243,-72.601626,substance abuse,Methadone maintenance for predetermined time,TC,Type of Care,MMW
+16,MA,413-733-1431,Intakes,,42.114066,-72.596654,substance abuse,Methadone,TC,Type of Care,METH
+17,MA,413-584-2404,,,42.312853,-72.6249309,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+18,MA,413-536-5111,,,42.092917,-72.572838,substance abuse,Methadone maintenance,TC,Type of Care,MM
+19,MA,413-774-3321,Intakes,,42.587589,-72.621546,substance abuse,Methadone maintenance,TC,Type of Care,MM
+20,MA,413-223-5072,,,42.6006204,-72.5942336,substance abuse,Methadone maintenance,TC,Type of Care,MM
+21,MA,413-370-5285,,,42.1694156,-72.341697,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+22,MA,978-452-5155 x201,,,42.6232277,-71.350935,substance abuse,Methadone maintenance,TC,Type of Care,MM
+23,MA,508-765-2725,,,42.074344,-72.031125,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+24,MA,508-765-5940,Intakes,,42.071155,-72.023588,substance abuse,Methadone maintenance,TC,Type of Care,MM
+25,MA,508-943-2944,,,42.0421758,-71.9076926,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+26,MA,508-860-1237,,,42.259911,-71.814511,substance abuse,Methadone detoxification,TC,Type of Care,DM
+27,MA,508-860-1260,,,42.259774,-71.814455,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+28,MA,508-797-6100,Intakes,,42.26598923,-71.81316218,substance abuse,Methadone maintenance,TC,Type of Care,MM
+29,MA,508-799-9000,Intakes,,42.2763289,-71.7948348,substance abuse,Methadone detoxification,TC,Type of Care,DM
+30,MA,508-854-3320 x1166,,,42.2962808,-71.7689518,substance abuse,Methadone maintenance,TC,Type of Care,MM
+31,MA,978-343-6300,,,42.5647388,-71.7739287,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+32,MA,978-466-3820,,,42.5260568,-71.7551845,substance abuse,Methadone,TC,Type of Care,METH
+33,MA,508-898-1570 x2197,Intakes,,42.2853361,-71.6274632,substance abuse,Methadone,TC,Type of Care,METH
+34,MA,508-898-1570,Intakes,,42.2853361,-71.6274632,substance abuse,Methadone maintenance,TC,Type of Care,MM
+35,MA,844-800-6372,,,42.2854737,-71.6267893,substance abuse,Methadone maintenance,TC,Type of Care,MM
+36,MA,508-634-1877,Intakes,,42.150897,-71.501077,substance abuse,Methadone maintenance,TC,Type of Care,MM
+37,MA,508-875-5801,Intakes,,42.279063,-71.418366,substance abuse,Methadone maintenance,TC,Type of Care,MM
+38,MA,508-661-2020,,,42.2769392,-71.4137942,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+39,MA,508-668-3223,,,42.143783,-71.25257,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+40,MA,508-235-5010 x4019,Intakes,,41.6907771,-71.165154,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+41,MA,781-290-4970,,,42.383622,-71.266143,substance abuse,Methadone maintenance,TC,Type of Care,MM
+42,MA,978-322-8848,,,42.6421816,-71.3114673,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+43,MA,978-937-9700 x6730,Intakes,,42.642182,-71.311467,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+44,MA,508-676-1307 x121,Intakes,,41.6979917,-71.1464517,substance abuse,Methadone maintenance,TC,Type of Care,MM
+45,MA,800-838-6331 x2580,,,42.505452,-71.270692,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+46,MA,508-235-7037,Intakes,,41.7151566,-71.1363158,substance abuse,Methadone,TC,Type of Care,METH
+47,MA,508-324-3500,Intakes,,41.7151566,-71.1363158,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+48,MA,508-324-3500 x3265,Intakes,,41.7151566,-71.1363158,substance abuse,Methadone detoxification,TC,Type of Care,DM
+49,MA,617-916-5069,,,42.362693,-71.1909286,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+50,MA,800-906-9531,,,42.3942245,-71.1913762,substance abuse,Methadone maintenance,TC,Type of Care,MM
+51,MA,978-259-7000 x7005,,,42.612167,-71.216872,substance abuse,Methadone detoxification,TC,Type of Care,DM
+52,MA,978-259-7000,Intakes,,42.6121671,-71.2168703,substance abuse,Methadone maintenance,TC,Type of Care,MM
+53,MA,888-750-5308,Intakes,,41.9019131,-71.089941,substance abuse,Methadone maintenance,TC,Type of Care,MM
+54,MA,781-646-3800,,,42.3636325,-71.1624482,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+55,MA,617-469-0300 x3302,Intakes,,42.2983204,-71.1493329,substance abuse,Methadone maintenance,TC,Type of Care,MM
+56,MA,339-368-7696,,,42.3442238,-71.143369,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+57,MA,617-254-1271,Intakes,,42.3489571,-71.1426625,substance abuse,Methadone maintenance,TC,Type of Care,MM
+58,MA,617-983-7474,,,42.301563,-71.128149,substance abuse,Use methadone/buprenorphine for pain management or emergency dosing,TC,Type of Care,PAIN
+59,MA,617-782-6460,,,42.351817,-71.127759,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+60,MA,617-661-0405 x117,,,42.400025,-71.130306,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+61,MA,617-661-5700,,,42.400025,-71.130306,substance abuse,Methadone maintenance,TC,Type of Care,MM
+62,MA,857-273-3923,,,42.3150832,-71.1114185,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+63,MA,617-202-9222,,,42.344372,-71.1148571,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+64,MA,617-524-1120,Intakes,,42.310124,-71.106735,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+65,MA,781-932-8114,,,42.5107089,-71.1410214,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+66,MA,617-983-6047,,,42.3109211,-71.10403,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+67,MA,617-541-3670,,,42.299581,-71.1017916,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+68,MA,617-355-2727,,,42.3373982,-71.104968,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+69,MA,978-687-6300,,,42.7023349,-71.1691894,substance abuse,Methadone maintenance,TC,Type of Care,MM
+70,MA,617-591-6051,,,42.384934,-71.106044,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+71,MA,617-267-0900,,,42.3440365,-71.0988961,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+72,MA,978-737-7272,,,42.5588042,-71.1368634,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+73,MA,781-838-6757,Intakes,,42.4955957,-71.1236289,substance abuse,Methadone maintenance,TC,Type of Care,MM
+74,MA,617-427-1000,,,42.332571,-71.092825,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+75,MA,508-207-9800,,,41.674167,-70.98532,substance abuse,Use methadone/buprenorphine for pain management or emergency dosing,TC,Type of Care,PAIN
+76,MA,617-825-9660,,,42.289384,-71.071349,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+77,MA,617-445-1123 x308,,,42.3267926,-71.075081,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+78,MA,617-247-1001,,,42.3337245,-71.0726407,substance abuse,Methadone detoxification,TC,Type of Care,DM
+79,MA,617-287-8000 x8325,,,42.3119206,-71.0686823,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+80,MA,617-318-6480,,,42.3329172,-71.07011,substance abuse,Methadone maintenance,TC,Type of Care,MM
+81,MA,508-742-4400,,,42.058483,-71.010301,substance abuse,Methadone detoxification,TC,Type of Care,DM
+82,MA,617-288-3230,Intakes,,42.304428,-71.059972,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+83,MA,617-724-5600,Intakes,,42.361737,-71.067068,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+84,MA,781-344-0102 x112,,,42.0823932,-71.0203486,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+85,MA,508-583-0493,,,42.10090014,-71.02127688,substance abuse,Use methadone/buprenorphine for pain management or emergency dosing,TC,Type of Care,PAIN
+86,MA,617-643-4699,,,42.364169,-71.063062,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+87,MA,617-371-3030 x3085,Intakes,,42.363831,-71.0595,substance abuse,Methadone maintenance,TC,Type of Care,MM
+88,MA,508-584-9210,,,42.057098,-71.0095974,substance abuse,Methadone detoxification,TC,Type of Care,DM
+89,MA,508-408-6190,,,42.057098,-71.0095974,substance abuse,Methadone maintenance,TC,Type of Care,MM
+90,MA,617-268-5000,,,42.332957,-71.053771,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+91,MA,508-638-6000,,,42.0578704,-71.0093689,substance abuse,Use methadone/buprenorphine for pain management or emergency dosing,TC,Type of Care,PAIN
+92,MA,617-268-7124,,,42.336084,-71.044376,substance abuse,Use methadone/buprenorphine for pain management or emergency dosing,TC,Type of Care,PAIN
+93,MA,781-388-6200,,,42.4038921,-71.0489154,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+94,MA,617-912-7500,,,42.3748178,-71.0380175,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+95,MA,617-934-1136,,,42.2645669,-71.0179181,substance abuse,Methadone maintenance,TC,Type of Care,MM
+96,MA,774-628-1000,,,41.652688,-70.924652,substance abuse,Methadone maintenance,TC,Type of Care,MM
+97,MA,508-717-0525,Intakes,,41.651957,-70.924519,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+98,MA,508-979-1122,,,41.6527859,-70.9214833,substance abuse,Methadone clients only,EXCL,Exclusive Services,MO
+99,MA,508-999-3126,,,41.6184603,-70.9192719,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+100,MA,617-479-0102,,,42.247634,-71.001744,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+101,MA,978-373-4985,,,42.8145703,-71.1044405,substance abuse,Methadone maintenance,TC,Type of Care,MM
+102,MA,617-889-8779,,,42.3962296,-71.023305,substance abuse,Methadone maintenance,TC,Type of Care,MM
+103,MA,914-574-9583,,,42.246795,-70.976531,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+104,MA,978-420-1156,,,42.7648887,-71.0447859,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+105,MA,781-812-1643,,,42.2005221,-70.9409978,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+106,MA,844-875-7667,,,42.4532823,-70.9588175,substance abuse,Methadone maintenance,TC,Type of Care,MM
+107,MA,978-535-9190,,,42.5410893,-70.9872271,substance abuse,Methadone maintenance,TC,Type of Care,MM
+108,MA,978-739-7664,,,42.5866809,-70.9767743,substance abuse,Methadone maintenance,TC,Type of Care,MM
+109,MA,781-233-1095,,,42.492776,-70.95645,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+110,MA,781-581-9270,,,42.4644229,-70.940269,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+111,MA,978-774-6820,,,42.549295,-70.945688,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+112,MA,781-871-6550 x22,,,42.1584065,-70.8595483,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+113,MA,508-295-7990,,,41.7558371,-70.6462334,substance abuse,Methadone maintenance,TC,Type of Care,MM
+114,MA,508-830-1234,,,41.95739786,-70.66676274,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+115,MA,508-693-7900 x310,Intakes,,41.4197856,-70.5927861,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+116,MA,774-247-4939,,,41.7456191,-70.6131202,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+117,MA,978-283-0296 x201,,,42.6252131,-70.6806526,substance abuse,Methadone,TC,Type of Care,METH
+118,MA,508-224-7701 x2420,,,41.8862435,-70.5381939,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+119,MA,508-224-7701 x2436,,,41.887157,-70.537288,substance abuse,Use methadone/buprenorphine for pain management or emergency dosing,TC,Type of Care,PAIN
+120,MA,508-862-9929,,,41.6578658,-70.3301903,substance abuse,Outpatient methadone/buprenorphine or naltrexone,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB
+121,MA,508-398-5155 x2925,,,41.6866751,-70.2121712,substance abuse,Methadone maintenance,TC,Type of Care,MM

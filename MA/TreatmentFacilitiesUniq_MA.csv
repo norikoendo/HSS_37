@@ -1,0 +1,520 @@
+OBJECTID,state,phone,latitude,longitude,type_facility,category_code,category_name,service_code
+1,MA,781-388-6253,42.403952,-71.048669,mental health,OL,Other Languages,F31
+2,MA,617-522-4400,42.315774,-71.112267,mental health,TAP,Treatment Approaches,TT
+3,MA,617-442-1499,42.333552,-71.066622,substance abuse,TAP,Treatment Approaches,MOTI
+4,MA,508-640-0011,42.0493431,-71.8826025,mental health,TAP,Treatment Approaches,IPT
+5,MA,413-585-8390,42.322022,-72.628051,substance abuse,TAP,Treatment Approaches,TRC
+6,MA,413-532-9446,42.187908,-72.637378,mental health,PAY,Payment/Insurance Accepted,MC
+7,MA,978-682-9222,42.690993,-71.155126,mental health,OL,Other Languages,SP
+8,MA,413-737-1426,42.0940103,-72.5741778,mental health,AGE,Age Groups Accepted,YAD
+9,MA,508-775-0275,41.68258,-70.288663,mental health,TAP,Treatment Approaches,TT
+10,MA,508-459-1801,42.252987,-71.796087,substance abuse,OL,Other Languages,SP
+11,MA,413-781-6485,42.109738,-72.573636,mental health,TC,Type of Care,MH
+12,MA,617-524-1120,42.310124,-71.106735,mental health,OL,Other Languages,SP
+13,MA,978-737-7272,42.5588042,-71.1368634,substance abuse,OL,Other Languages,SP
+14,MA,978-373-7010 x236,42.777227,-71.071475,mental health,OL,Other Languages,F4
+15,MA,978-352-2131,42.704479,-71.009454,mental health,AGE,Age Groups Accepted,ADLT
+16,MA,781-631-8273,42.484094,-70.880171,mental health,TAP,Treatment Approaches,GT
+17,MA,508-830-1630,41.959087,-70.703113,mental health,TAP,Treatment Approaches,TT
+18,MA,617-855-3141,42.3942245,-71.1913762,mental health,AGE,Age Groups Accepted,YAD
+19,MA,781-744-5100,42.4845858,-71.204996,mental health,FT,Facility Type,OMH
+20,MA,413-341-1787,42.5920488,-72.6041819,substance abuse,AS,Ancillary Services,HIVT
+21,MA,413-734-5376,42.113315,-72.577597,mental health,TAP,Treatment Approaches,TT
+22,MA,413-528-9156,42.1976093,-73.35787,substance abuse,TC,Type of Care,BU
+23,MA,413-629-1130,42.1976093,-73.35787,mental health,TC,Type of Care,MH
+24,MA,413-528-0535,42.23469,-73.345782,mental health,TC,Type of Care,MH
+25,MA,413-532-1456 x301,42.2090591,-72.6186232,mental health,AGE,Age Groups Accepted,YAD
+26,MA,413-298-5511,42.283076,-73.313441,mental health,OL,Other Languages,F4
+27,MA,413-528-1804,42.176256,-73.241792,mental health,TC,Type of Care,MH
+28,MA,413-637-2845,42.3950499,-73.2853978,mental health,TC,Type of Care,MH
+29,MA,413-236-5656,42.415812,-73.261059,mental health,TAP,Treatment Approaches,PTM
+30,MA,413-499-0412,42.4490963,-73.2553923,mental health,TC,Type of Care,MH
+31,MA,413-499-2756,42.4548611,-73.2561118,substance abuse,PF,Primary Focus of the Provider,SAF
+32,MA,413-236-5656 x6002,42.445883,-73.253591,mental health,TC,Type of Care,MH
+33,MA,413-442-4003,42.4506927,-73.2535147,mental health,TC,Type of Care,MH
+34,MA,413-584-4040 x6300,42.451429,-73.251971,mental health,SMP,Facility Smoking Policy,SMON
+35,MA,413-499-0412 x1222,42.449967,-73.248189,substance abuse,PF,Primary Focus of the Provider,MHSAF
+36,MA,413-448-6150,42.449941,-73.247747,mental health,TC,Type of Care,MH
+37,MA,413-442-1400,42.459638,-73.2492284,substance abuse,TC,Type of Care,DB
+38,MA,413-447-2000,42.459638,-73.2492284,mental health,TC,Type of Care,MH
+39,MA,413-442-0402 x765,42.4580497,-73.210879,substance abuse,PF,Primary Focus of the Provider,SAF
+40,MA,413-664-9024,42.6688647,-73.1075223,substance abuse,AS,Ancillary Services,STU
+41,MA,413-664-5540,42.7058896,-73.108404,substance abuse,GN,Gender Accepted,MALE
+42,MA,413-664-4541,42.6965808,-73.1123305,mental health,TC,Type of Care,MH
+43,MA,413-667-3009,42.224499,-72.870966,substance abuse,TC,Type of Care,SA
+44,MA,413-568-6141,42.111988,-72.765598,mental health,TC,Type of Care,MH
+45,MA,413-568-2811,42.1180277,-72.7590708,mental health,AS,Ancillary Services,PEER
+46,MA,413-774-1000,42.5920488,-72.6041819,mental health,PAY,Payment/Insurance Accepted,MD
+47,MA,413-568-6600,42.13425,-72.740168,substance abuse,SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OP
+48,MA,413-786-6410,42.06694,-72.6802,mental health,TAP,Treatment Approaches,CFT
+49,MA,413-538-8188,42.20888,-72.612211,substance abuse,GN,Gender Accepted,MALE
+50,MA,413-584-4040,42.364407,-72.693974,mental health,TC,Type of Care,MH
+51,MA,413-536-5473,42.166775,-72.649515,mental health,AGE,Age Groups Accepted,ADLT
+52,MA,413-733-3488 x1200,42.110243,-72.601626,substance abuse,AS,Ancillary Services,HS
+53,MA,413-584-4040 x2600,42.3471472,-72.6859614,substance abuse,PF,Primary Focus of the Provider,SAF
+54,MA,413-529-1764,42.283668,-72.665864,mental health,TAP,Treatment Approaches,TT
+55,MA,413-539-2467,42.166209,-72.633513,mental health,OL,Other Languages,F28
+56,MA,413-533-5201,42.173781,-72.639662,mental health,TC,Type of Care,MH
+57,MA,413-539-2973,42.165342,-72.635571,substance abuse,PF,Primary Focus of the Provider,SAF
+58,MA,413-539-2487,42.165342,-72.635571,substance abuse,PF,Primary Focus of the Provider,SAF
+59,MA,413-737-4718,42.104181,-72.62345,mental health,TC,Type of Care,MH
+60,MA,413-536-5111,42.166209,-72.633513,mental health,TC,Type of Care,MH
+61,MA,413-536-5111 x2984,42.1662091,-72.6335126,substance abuse,PF,Primary Focus of the Provider,MHSAF
+62,MA,413-209-3124,42.1053214,-72.6186909,substance abuse,TAP,Treatment Approaches,MOTI
+63,MA,413-582-2151,42.33191,-72.654171,mental health,TAP,Treatment Approaches,IPT
+64,MA,413-534-2627,42.19947343,-72.62753929,substance abuse,PF,Primary Focus of the Provider,MHSAF
+65,MA,413-534-2698,42.2003303,-72.6274501,mental health,TC,Type of Care,MH
+66,MA,413-746-0051 x3182,42.1327298,-72.6132647,substance abuse,PF,Primary Focus of the Provider,SAF
+67,MA,413-781-2234 x304,42.113619,-72.606911,substance abuse,AS,Ancillary Services,GCO
+68,MA,413-586-8213 x104,42.313079,-72.641772,substance abuse,PF,Primary Focus of the Provider,MHSAF
+69,MA,413-540-1160,42.204028,-72.619121,mental health,OL,Other Languages,SP
+70,MA,413-794-0000,42.1213838,-72.6036871,mental health,TAP,Treatment Approaches,TT
+71,MA,413-736-0395,42.1094871,-72.6004548,mental health,TC,Type of Care,MH
+72,MA,413-594-2141,42.148051,-72.607641,mental health,TC,Type of Care,MH
+73,MA,413-584-4040 x6007,42.109998,-72.599557,mental health,TC,Type of Care,MH
+74,MA,413-540-9881 x310,42.209756,-72.618094,substance abuse,PF,Primary Focus of the Provider,MHSAF
+75,MA,413-733-1431,42.114066,-72.596654,substance abuse,EXCL,Exclusive Services,DU
+76,MA,413-739-5572,42.104646,-72.594653,mental health,TAP,Treatment Approaches,DBT
+77,MA,413-739-1611,42.108559,-72.59588,substance abuse,PF,Primary Focus of the Provider,MHSAF
+78,MA,413-532-0389,42.207179,-72.608806,mental health,TC,Type of Care,MH
+79,MA,413-582-0471,42.3031243,-72.6227955,substance abuse,AGE,Age Groups Accepted,ADLT
+80,MA,413-587-3265 x310,42.317483,-72.630089,mental health,TC,Type of Care,MH
+81,MA,413-584-6855,42.318907,-72.628909,mental health,TC,Type of Care,MH
+82,MA,413-726-1030,42.113944,-72.586034,substance abuse,PF,Primary Focus of the Provider,SAF
+83,MA,413-827-8959 x1660,42.0885544,-72.5806902,mental health,OL,Other Languages,SP
+84,MA,413-584-2404,42.312853,-72.6249309,substance abuse,PF,Primary Focus of the Provider,SAF
+85,MA,413-301-9500,42.1132916,-72.5852259,substance abuse,TAP,Treatment Approaches,ANG
+86,MA,413-734-3151,42.114381,-72.585553,substance abuse,PF,Primary Focus of the Provider,MHSAF
+87,MA,413-747-0705,42.1142627,-72.5850942,mental health,TC,Type of Care,MH
+88,MA,413-732-7419,42.10107,-72.581142,mental health,TAP,Treatment Approaches,PTM
+89,MA,413-737-2437 x104,42.100757,-72.58079,mental health,TC,Type of Care,MH
+90,MA,413-739-0882,42.100757,-72.58079,mental health,TAP,Treatment Approaches,CFT
+91,MA,413-737-9544,42.1001396,-72.5805101,mental health,TC,Type of Care,MH
+92,MA,413-584-1310 x313,42.3199691,-72.6230104,mental health,TC,Type of Care,MH
+93,MA,617-661-3991,42.1004303,-72.5790147,mental health,FOP,"Facility Operation (e.g. Private, Public)",PVT
+94,MA,413-733-7891 x100,42.089681,-72.573739,substance abuse,AGE,Age Groups Accepted,ADLT
+95,MA,413-733-2178 x96310,42.09966729,-72.57499465,substance abuse,PF,Primary Focus of the Provider,SAF
+96,MA,413-739-4732 x100,42.110863,-72.573673,substance abuse,PF,Primary Focus of the Provider,SAF
+97,MA,413-739-5626,42.1119336,-72.5662756,mental health,OL,Other Languages,SP
+98,MA,508-438-5625,42.295944,-71.790333,substance abuse,OL,Other Languages,SP
+99,MA,413-584-4040 x6400,42.575221,-72.623367,mental health,AS,Ancillary Services,STU
+100,MA,413-774-3321,42.587589,-72.621546,substance abuse,PF,Primary Focus of the Provider,SAF
+101,MA,978-452-5155 x201,42.6232277,-71.350935,substance abuse,GN,Gender Accepted,MALE
+102,MA,413-772-2935,42.589379,-72.599421,mental health,TC,Type of Care,MH
+103,MA,413-773-2546,42.594336,-72.593826,mental health,TC,Type of Care,MH
+104,MA,413-223-5072,42.6006204,-72.5942336,substance abuse,PF,Primary Focus of the Provider,SAF
+105,MA,413-772-0211,42.59584,-72.592547,mental health,AS,Ancillary Services,CM
+106,MA,413-773-1705,42.596945,-72.5924299,substance abuse,TAP,Treatment Approaches,ANG
+107,MA,413-223-5072 x5233,42.6006204,-72.5942336,substance abuse,PF,Primary Focus of the Provider,SAF
+108,MA,413-209-9820,42.158357,-72.499793,substance abuse,PF,Primary Focus of the Provider,SAF
+109,MA,413-774-6252,42.609308,-72.586592,mental health,TAP,Treatment Approaches,CFT
+110,MA,413-512-5019,42.578078,-72.579367,substance abuse,PF,Primary Focus of the Provider,SAF
+111,MA,413-545-0041,42.3874534,-72.5295928,mental health,AGE,Age Groups Accepted,ADLT
+112,MA,413-549-0095,42.373749,-72.531512,mental health,TC,Type of Care,MH
+113,MA,978-345-0685,42.564994,-71.845193,mental health,OL,Other Languages,F43
+114,MA,413-283-7651,42.1694156,-72.341697,mental health,PAY,Payment/Insurance Accepted,MC
+115,MA,413-370-5285,42.1694156,-72.341697,substance abuse,PF,Primary Focus of the Provider,MHSAF
+116,MA,978-694-9997,42.569721,-71.148299,mental health,OL,Other Languages,F28
+117,MA,978-544-2148,42.591941,-72.315446,mental health,PAY,Payment/Insurance Accepted,SF
+118,MA,413-967-6241 x114,42.25238,-72.241914,mental health,TAP,Treatment Approaches,CBT
+119,MA,413-736-8329,42.2561773,-72.2411427,substance abuse,AS,Ancillary Services,HS
+120,MA,978-249-9490,42.5939108,-72.2300874,mental health,TC,Type of Care,MH
+121,MA,978-249-9490 x4005,42.5939108,-72.2300874,substance abuse,PF,Primary Focus of the Provider,MHF
+122,MA,978-355-4541,42.409974,-72.1085912,mental health,AS,Ancillary Services,CM
+123,MA,508-765-9771,42.077069,-72.042976,mental health,TC,Type of Care,MH
+124,MA,508-765-2725,42.074344,-72.031125,substance abuse,AS,Ancillary Services,DP
+125,MA,508-765-9167,42.0804968,-72.037874,mental health,TC,Type of Care,MH
+126,MA,508-765-5940,42.071155,-72.023588,substance abuse,PF,Primary Focus of the Provider,MHSAF
+127,MA,781-292-2196,42.2599569,-71.2693698,mental health,TC,Type of Care,MH
+128,MA,781-292-2023,42.2597678,-71.2695083,mental health,OL,Other Languages,F35
+129,MA,508-943-2944,42.0421758,-71.9076926,substance abuse,PF,Primary Focus of the Provider,MHSAF
+130,MA,978-632-4574,42.579566,-71.995751,substance abuse,LCA,Licence/certification/accreditation,STDH
+131,MA,978-632-3420,42.586599,-71.98678,mental health,TAP,Treatment Approaches,TT
+132,MA,508-892-5500,42.2456938,-71.8966727,substance abuse,SG,Special Programs/Groups Offered,PW
+133,MA,508-892-4886 x23,42.2589979,-71.8885163,mental health,SMP,Facility Smoking Policy,SMPD
+134,MA,800-230-8764,42.6631,-71.9357,substance abuse,PF,Primary Focus of the Provider,MHSAF
+135,MA,978-464-2141,42.467989,-71.8841957,substance abuse,PF,Primary Focus of the Provider,SAF
+136,MA,508-755-6403,42.2450986,-71.8312675,substance abuse,TAP,Treatment Approaches,ANG
+137,MA,508-752-3969,42.265309,-71.802101,mental health,AGE,Age Groups Accepted,YAD
+138,MA,508-753-2967,42.2627767,-71.826625,mental health,TAP,Treatment Approaches,CBT
+139,MA,978-571-1700,42.5430321,-71.8790129,substance abuse,PF,Primary Focus of the Provider,SAF
+140,MA,508-860-2216,42.25374,-71.813862,substance abuse,TAP,Treatment Approaches,ANG
+141,MA,508-860-1172,42.2703403,-71.8190438,substance abuse,TC,Type of Care,SA
+142,MA,508-860-1260,42.259911,-71.814511,mental health,OL,Other Languages,F43
+143,MA,508-581-7821,42.18234,-71.768998,substance abuse,GN,Gender Accepted,FEM
+144,MA,508-860-1244,42.2592515,-71.8146546,substance abuse,AS,Ancillary Services,NRT
+145,MA,508-860-1237,42.259911,-71.814511,substance abuse,PF,Primary Focus of the Provider,SAF
+146,MA,508-860-1142,42.2597825,-71.8138,substance abuse,PF,Primary Focus of the Provider,SAF
+147,MA,774-312-2400,42.259783,-71.8138,substance abuse,PF,Primary Focus of the Provider,SAF
+148,MA,508-797-6100,42.26598923,-71.81316218,substance abuse,TAP,Treatment Approaches,DBT
+149,MA,508-753-5425,42.266641,-71.80661,mental health,TAP,Treatment Approaches,TT
+150,MA,508-762-3000,42.260392,-71.803395,substance abuse,PF,Primary Focus of the Provider,MHSAF
+151,MA,508-791-4976 x1253,42.2653091,-71.8021009,substance abuse,PF,Primary Focus of the Provider,MHF
+152,MA,508-756-4646 x223,42.269451,-71.802612,mental health,TAP,Treatment Approaches,DBT
+153,MA,508-752-4665,42.263156,-71.800385,mental health,TC,Type of Care,MH
+154,MA,508-757-8636,42.244156,-71.796878,mental health,TAP,Treatment Approaches,AT
+155,MA,508-756-2005,42.2696842,-71.7979855,substance abuse,PF,Primary Focus of the Provider,SAF
+156,MA,508-453-3053,42.2754131,-71.7954857,substance abuse,PAY,Payment/Insurance Accepted,SI
+157,MA,508-799-9000,42.2763289,-71.7948348,substance abuse,PF,Primary Focus of the Provider,SAF
+158,MA,508-755-8088,42.2757949,-71.7926575,substance abuse,PF,Primary Focus of the Provider,SAF
+159,MA,508-853-5060,42.297239,-71.792901,mental health,TC,Type of Care,MH
+160,MA,508-849-5600 x284,42.2565382,-71.782731,mental health,TC,Type of Care,MH
+161,MA,508-849-5600 x408,42.2565382,-71.782731,substance abuse,PF,Primary Focus of the Provider,MHSAF
+162,MA,508-853-6988,42.301906,-71.789054,mental health,TC,Type of Care,MH
+163,MA,413-584-4040 x17079,42.2970679,-71.7673442,mental health,TAP,Treatment Approaches,GT
+164,MA,978-913-2509,42.668395,-71.850264,substance abuse,PF,Primary Focus of the Provider,SAF
+165,MA,508-368-3729,42.2737109,-71.7665794,mental health,SMP,Facility Smoking Policy,SMON
+166,MA,508-854-3320 x1166,42.2962808,-71.7689518,substance abuse,PF,Primary Focus of the Provider,SAF
+167,MA,413-584-4040 x6200,42.5862558,-71.8043438,mental health,TC,Type of Care,MH
+168,MA,978-401-3970,42.597852,-71.806417,mental health,SMP,Facility Smoking Policy,SMON
+169,MA,978-343-3336,42.5834297,-71.7999764,mental health,TC,Type of Care,MH
+170,MA,978-343-6300,42.5647388,-71.7739287,substance abuse,PF,Primary Focus of the Provider,SAF
+171,MA,978-537-3109,42.52828215,-71.76507082,substance abuse,PF,Primary Focus of the Provider,SAF
+172,MA,978-466-3820,42.5260568,-71.7551845,substance abuse,GN,Gender Accepted,MALE
+173,MA,508-234-4181,42.111446,-71.661315,mental health,TC,Type of Care,MH
+174,MA,978-368-3000,42.426817,-71.692753,mental health,TC,Type of Care,MH
+175,MA,617-782-6460,42.351817,-71.127759,mental health,OL,Other Languages,F70
+176,MA,508-898-1570 x2197,42.2853361,-71.6274632,substance abuse,PF,Primary Focus of the Provider,SAF
+177,MA,508-898-1570,42.2853361,-71.6274632,substance abuse,PF,Primary Focus of the Provider,SAF
+178,MA,844-800-6372,42.2854737,-71.6267893,substance abuse,PF,Primary Focus of the Provider,SAF
+179,MA,508-389-1752,42.26938,-71.615338,mental health,TC,Type of Care,MH
+180,MA,508-478-6888,42.143992,-71.545324,mental health,TC,Type of Care,MH
+181,MA,978-784-9000 x9843,42.5772839,-71.5739659,mental health,PAY,Payment/Insurance Accepted,SF
+182,MA,508-979-1122,41.6527859,-70.9214833,substance abuse,GN,Gender Accepted,MALE
+183,MA,508-481-5000,42.3542328,-71.5540759,mental health,AGE,Age Groups Accepted,YAD
+184,MA,978-772-1846,42.5595788,-71.5891173,substance abuse,AGE,Age Groups Accepted,ADLT
+185,MA,508-480-0092,42.3397096,-71.5417928,substance abuse,AS,Ancillary Services,HS
+186,MA,508-485-9300,42.335861,-71.541163,mental health,FT,Facility Type,OMH
+187,MA,508-481-8077,42.337336,-71.539685,mental health,TC,Type of Care,MH
+188,MA,508-634-1877,42.150897,-71.501077,substance abuse,PF,Primary Focus of the Provider,SAF
+189,MA,508-435-9040,42.24454926,-71.51656121,substance abuse,AS,Ancillary Services,NSC
+190,MA,508-528-6037 x18,42.091785,-71.426598,mental health,AGE,Age Groups Accepted,ADLT
+191,MA,508-879-9800,42.324004,-71.453684,mental health,TAP,Treatment Approaches,GT
+192,MA,508-626-2586,42.285193,-71.443207,substance abuse,AS,Ancillary Services,GCO
+193,MA,508-226-6031,41.9234593,-71.3537961,mental health,TAP,Treatment Approaches,GT
+194,MA,508-879-2250,42.2778757,-71.4162872,substance abuse,OL,Other Languages,F28
+195,MA,508-620-2992,42.2792452,-71.4172572,substance abuse,SG,Special Programs/Groups Offered,WN
+196,MA,508-879-3230,42.283758,-71.419301,mental health,TAP,Treatment Approaches,TT
+197,MA,508-875-5801,42.279063,-71.418366,substance abuse,PF,Primary Focus of the Provider,SAF
+198,MA,508-620-0010,42.283138,-71.418618,mental health,TAP,Treatment Approaches,IPT
+199,MA,508-661-2020,42.2769392,-71.4137942,substance abuse,PF,Primary Focus of the Provider,MHSAF
+200,MA,978-264-3500,42.4734787,-71.4483239,mental health,TC,Type of Care,MH
+201,MA,508-872-6194 x102,42.273066,-71.41168,substance abuse,PF,Primary Focus of the Provider,SAF
+202,MA,508-761-8500,41.9364439,-71.2844793,substance abuse,TC,Type of Care,MOA
+203,MA,508-655-6400,42.31925,-71.338789,mental health,OL,Other Languages,SP
+204,MA,508-222-8812,41.945026,-71.283266,mental health,TC,Type of Care,MH
+205,MA,617-254-3800,42.3501528,-71.1433908,mental health,TC,Type of Care,MH
+206,MA,508-222-7525 x436,41.94335,-71.277894,mental health,TC,Type of Care,MH
+207,MA,978-453-5736,42.645575,-71.307373,mental health,OL,Other Languages,F70
+208,MA,508-223-4691,41.9530755,-71.2661671,mental health,TAP,Treatment Approaches,CFT
+209,MA,978-369-7611,42.457003,-71.346087,mental health,TC,Type of Care,MH
+210,MA,508-324-0328,41.760859,-71.218157,substance abuse,PF,Primary Focus of the Provider,MHF
+211,MA,617-254-2923,42.3580235,-71.1339995,substance abuse,GN,Gender Accepted,FEM
+212,MA,978-682-5276,42.70342,-71.196924,mental health,TAP,Treatment Approaches,TT
+213,MA,617-855-2000,42.395482,-71.190961,mental health,AGE,Age Groups Accepted,ADLT
+214,MA,617-247-1001,42.3337245,-71.0726407,substance abuse,GN,Gender Accepted,MALE
+215,MA,978-256-1444,42.594263,-71.347043,mental health,TAP,Treatment Approaches,CFT
+216,MA,781-259-8565,42.4460464,-71.3128976,mental health,TC,Type of Care,MH
+217,MA,508-543-1873,42.049705,-71.240881,substance abuse,PAY,Payment/Insurance Accepted,PI
+218,MA,978-703-2200,42.645588,-71.344919,mental health,TC,Type of Care,MH
+219,MA,978-455-6973,42.653193,-71.345494,substance abuse,PF,Primary Focus of the Provider,SAF
+220,MA,508-668-3223,42.143783,-71.25257,substance abuse,PF,Primary Focus of the Provider,MHSAF
+221,MA,508-679-0183,41.74867,-71.18917,mental health,TC,Type of Care,MH
+222,MA,508-672-6560,41.749892,-71.186844,mental health,TC,Type of Care,MH
+223,MA,978-452-4522,42.636722,-71.331704,mental health,AGE,Age Groups Accepted,YAD
+224,MA,508-677-0304,41.748503,-71.182654,mental health,TC,Type of Care,MH
+225,MA,978-322-8848,42.6421816,-71.3114673,substance abuse,GN,Gender Accepted,MALE
+226,MA,781-647-5327,42.3758986,-71.2719074,mental health,TC,Type of Care,MH
+227,MA,508-235-5010 x4019,41.6907771,-71.165154,substance abuse,PF,Primary Focus of the Provider,SAF
+228,MA,508-674-5600,41.6925835,-71.1639812,mental health,PAY,Payment/Insurance Accepted,MD
+229,MA,978-459-8656,42.647397,-71.31714,substance abuse,PF,Primary Focus of the Provider,SAF
+230,MA,781-290-4970,42.383622,-71.266143,substance abuse,PF,Primary Focus of the Provider,SAF
+231,MA,508-679-0033,41.705711,-71.1545979,substance abuse,GN,Gender Accepted,MALE
+232,MA,508-584-5190,42.1006193,-71.0818199,mental health,TC,Type of Care,MH
+233,MA,508-678-2833,41.718416,-71.154937,substance abuse,GN,Gender Accepted,FEM
+234,MA,978-937-9700 x6730,42.6421816,-71.3114673,mental health,TC,Type of Care,MH
+235,MA,978-459-0389,42.6445483,-71.309159,mental health,TAP,Treatment Approaches,TT
+236,MA,508-617-4436,41.708366,-71.154817,substance abuse,AS,Ancillary Services,SSA
+237,MA,781-762-7764,42.206853,-71.22408,substance abuse,TC,Type of Care,DT
+238,MA,508-674-2788 x106,41.70907268,-71.15445874,substance abuse,PF,Primary Focus of the Provider,SAF
+239,MA,978-458-6282,42.6414551,-71.3063015,mental health,TC,Type of Care,MH
+240,MA,508-676-5708 x5000,41.700381,-71.152301,mental health,TC,Type of Care,MH
+241,MA,617-243-6434,42.3306338,-71.2464373,mental health,TC,Type of Care,MH
+242,MA,617-661-6020,42.3923417,-71.1231795,substance abuse,AS,Ancillary Services,ACC
+243,MA,617-983-5800,42.3064797,-71.1074803,mental health,OL,Other Languages,SP
+244,MA,508-235-7200 x7400,41.707724,-71.145668,mental health,TAP,Treatment Approaches,GT
+245,MA,508-674-4847,41.7097394,-71.1506667,mental health,TC,Type of Care,MH
+246,MA,508-676-1307 x121,41.6979917,-71.1464517,substance abuse,PF,Primary Focus of the Provider,SAF
+247,MA,508-235-7037,41.7151566,-71.1363158,substance abuse,TC,Type of Care,VTRL
+248,MA,781-687-2000,42.505452,-71.270692,mental health,TC,Type of Care,MH
+249,MA,508-678-0041,41.724607,-71.144718,mental health,OL,Other Languages,SP
+250,MA,800-838-6331 x2580,42.505452,-71.270692,substance abuse,TC,Type of Care,SA
+251,MA,508-285-2701,41.97014641,-71.18080277,substance abuse,PF,Primary Focus of the Provider,SAF
+252,MA,508-324-3500,41.7151566,-71.1363158,substance abuse,PF,Primary Focus of the Provider,MHSAF
+253,MA,508-324-3500 x3265,41.7151566,-71.1363158,substance abuse,AS,Ancillary Services,DP
+254,MA,800-444-1554,41.566284,-70.626782,substance abuse,GN,Gender Accepted,MALE
+255,MA,781-891-4323,42.37055259,-71.23380504,substance abuse,PF,Primary Focus of the Provider,SAF
+256,MA,617-541-3670,42.299581,-71.1017916,substance abuse,AS,Ancillary Services,DP
+257,MA,781-891-0555,42.3740753,-71.233337,mental health,TC,Type of Care,MH
+258,MA,617-524-4416,42.308328,-71.101328,substance abuse,OL,Other Languages,SP
+259,MA,781-769-8670,42.189066,-71.198259,mental health,TC,Type of Care,MH
+260,MA,781-762-4001 x301,42.213112,-71.20122,mental health,TC,Type of Care,MH
+261,MA,781-274-6800,42.438673,-71.21738,mental health,TC,Type of Care,MH
+262,MA,781-320-8480,42.243812,-71.177034,mental health,AGE,Age Groups Accepted,ADLT
+263,MA,617-332-9905,42.355738,-71.1970876,substance abuse,PF,Primary Focus of the Provider,MHSAF
+264,MA,617-916-5069,42.362693,-71.1909286,substance abuse,AS,Ancillary Services,STDT
+265,MA,617-855-2874,42.3909162,-71.1979882,mental health,TC,Type of Care,MH
+266,MA,781-329-4579,42.255364,-71.166815,mental health,AGE,Age Groups Accepted,ADLT
+267,MA,617-855-2743,42.3942245,-71.1913762,substance abuse,PF,Primary Focus of the Provider,MHSAF
+268,MA,800-906-9531,42.3942245,-71.1913762,substance abuse,PF,Primary Focus of the Provider,SAF
+269,MA,774-501-3890,41.911357,-71.101224,substance abuse,AS,Ancillary Services,CM
+270,MA,508-977-3730,41.911357,-71.101224,mental health,TC,Type of Care,MH
+271,MA,508-828-9116,41.902521,-71.099807,mental health,TC,Type of Care,MH
+272,MA,978-259-7000 x7005,42.612167,-71.216872,substance abuse,PF,Primary Focus of the Provider,SAF
+273,MA,508-822-4027,41.9015476,-71.0944441,substance abuse,OL,Other Languages,F25
+274,MA,978-259-7000,42.6121671,-71.2168703,substance abuse,PF,Primary Focus of the Provider,SAF
+275,MA,978-459-3371,42.6121671,-71.2168703,substance abuse,AS,Ancillary Services,FCO
+276,MA,978-640-0840,42.6121671,-71.2168703,substance abuse,PF,Primary Focus of the Provider,SAF
+277,MA,978-858-3776 x3604,42.612501,-71.216858,mental health,AGE,Age Groups Accepted,CHLD
+278,MA,978-863-0048,42.6126384,-71.21613534,substance abuse,PF,Primary Focus of the Provider,SAF
+279,MA,508-828-7000,41.9065419,-71.0955896,mental health,TAP,Treatment Approaches,AT
+280,MA,888-750-5308,41.9019131,-71.089941,substance abuse,PF,Primary Focus of the Provider,SAF
+281,MA,508-823-6124,41.902942,-71.089909,mental health,TC,Type of Care,MH
+282,MA,781-646-3800,42.3636325,-71.1624482,substance abuse,TC,Type of Care,RPN
+283,MA,617-469-0300 x3303,42.298462,-71.149418,mental health,TC,Type of Care,MH
+284,MA,617-789-3000 x2623,42.348958,-71.147681,mental health,AS,Ancillary Services,FPSY
+285,MA,617-469-0300 x3302,42.2983204,-71.1493329,substance abuse,PF,Primary Focus of the Provider,MHF
+286,MA,617-776-6036,42.383625,-71.095391,substance abuse,GN,Gender Accepted,MALE
+287,MA,339-368-7696,42.3442238,-71.143369,substance abuse,PAY,Payment/Insurance Accepted,MD
+288,MA,617-674-5333,42.3916573,-71.155308,mental health,SMP,Facility Smoking Policy,SMON
+289,MA,617-789-3000 x2574,42.3489582,-71.1476809,substance abuse,PF,Primary Focus of the Provider,SAF
+290,MA,617-787-1901 x0,42.348874,-71.1431781,mental health,TC,Type of Care,MH
+291,MA,617-254-1271,42.3489571,-71.1426625,substance abuse,PF,Primary Focus of the Provider,SAF
+292,MA,617-983-7474,42.301563,-71.128149,substance abuse,AS,Ancillary Services,STU
+293,MA,781-643-1668,42.417135,-71.152451,mental health,TC,Type of Care,MH
+294,MA,617-983-7000,42.3015848,-71.1282002,mental health,TC,Type of Care,MH
+295,MA,617-524-3116,42.302341,-71.126636,mental health,TC,Type of Care,MH
+296,MA,617-499-5051 x4212,42.3739637,-71.1341246,substance abuse,PF,Primary Focus of the Provider,MHSAF
+297,MA,888-657-5699,42.3802,-71.1347,mental health,TC,Type of Care,MH
+298,MA,617-469-8500,42.281127,-71.115238,mental health,TC,Type of Care,MH
+299,MA,781-297-8200,42.1006193,-71.0818199,mental health,TC,Type of Care,MH
+300,MA,617-731-3200,42.3507701,-71.1212002,mental health,PAY,Payment/Insurance Accepted,MC
+301,MA,617-661-0405 x117,42.400025,-71.130306,substance abuse,PF,Primary Focus of the Provider,MHSAF
+302,MA,617-864-0941,42.400025,-71.130306,mental health,TC,Type of Care,MH
+303,MA,617-661-5700,42.400025,-71.130306,substance abuse,TAP,Treatment Approaches,ANG
+304,MA,617-232-1303,42.342713,-71.118675,mental health,TC,Type of Care,MH
+305,MA,617-390-1204,42.315774,-71.112267,substance abuse,PF,Primary Focus of the Provider,MHF
+306,MA,857-273-3923,42.3150832,-71.1114185,substance abuse,PF,Primary Focus of the Provider,MHSAF
+307,MA,978-687-1658,42.7046162,-71.1820079,substance abuse,PF,Primary Focus of the Provider,SAF
+308,MA,617-202-9222,42.344372,-71.1148571,substance abuse,PF,Primary Focus of the Provider,SAF
+309,MA,617-892-7937,42.30041,-71.105673,substance abuse,PF,Primary Focus of the Provider,SAF
+310,MA,978-687-4257,42.7019379,-71.1795247,substance abuse,TC,Type of Care,MOA
+311,MA,617-522-2936 x424,42.30041,-71.105673,substance abuse,PF,Primary Focus of the Provider,SAF
+312,MA,617-278-4288,42.3308926,-71.1100899,mental health,TC,Type of Care,MH
+313,MA,617-354-2275,42.382799,-71.1187943,mental health,TC,Type of Care,MH
+314,MA,617-626-9300,42.3361282,-71.1085894,mental health,TAP,Treatment Approaches,CBT
+315,MA,781-932-8114,42.5107089,-71.1410214,substance abuse,PF,Primary Focus of the Provider,MHSAF
+316,MA,617-547-2255,42.3719993,-71.1159555,mental health,AS,Ancillary Services,CM
+317,MA,617-425-2000,42.3405312,-71.0730169,mental health,OL,Other Languages,SP
+318,MA,617-983-6047,42.3109211,-71.10403,substance abuse,PF,Primary Focus of the Provider,GHF
+319,MA,617-442-0048 x302,42.299581,-71.1017916,substance abuse,PF,Primary Focus of the Provider,SAF
+320,MA,857-273-4929,42.299581,-71.1017916,substance abuse,PF,Primary Focus of the Provider,SAF
+321,MA,617-355-6680,42.337436,-71.105447,mental health,TC,Type of Care,MH
+322,MA,617-355-2727,42.3373982,-71.104968,substance abuse,AS,Ancillary Services,HIVT
+323,MA,617-665-1000,42.374498,-71.104404,mental health,TAP,Treatment Approaches,GT
+324,MA,508-427-3000,42.098047,-71.065877,mental health,TC,Type of Care,MH
+325,MA,617-732-6753,42.337105,-71.102317,mental health,TC,Type of Care,MH
+326,MA,617-523-6400,42.325314,-71.099378,mental health,AGE,Age Groups Accepted,ADLT
+327,MA,978-687-6300,42.7023349,-71.1691894,substance abuse,PF,Primary Focus of the Provider,SAF
+328,MA,617-442-8800 x1392,42.319523,-71.097929,mental health,TC,Type of Care,MH
+329,MA,617-442-8800 x1602,42.3192836,-71.0977261,substance abuse,PF,Primary Focus of the Provider,SAF
+330,MA,617-442-8800 x1420,42.318961,-71.097433,substance abuse,TAP,Treatment Approaches,BIA
+331,MA,617-442-8800 x1535,42.318961,-71.097433,substance abuse,TC,Type of Care,SA
+332,MA,617-628-8188 x308,42.390736,-71.109677,substance abuse,PF,Primary Focus of the Provider,SAF
+333,MA,617-442-8800,42.3191673,-71.0960074,substance abuse,PF,Primary Focus of the Provider,SAF
+334,MA,978-686-8202 x19,42.7037922,-71.1659737,mental health,TC,Type of Care,MH
+335,MA,774-826-2473,42.065637,-71.053998,mental health,TC,Type of Care,MH
+336,MA,617-591-6051,42.384934,-71.106044,substance abuse,PF,Primary Focus of the Provider,SAF
+337,MA,617-267-0900,42.3440365,-71.0988961,substance abuse,TC,Type of Care,VTRL
+338,MA,978-687-0156 x2213,42.728461,-71.168301,mental health,OL,Other Languages,SP
+339,MA,617-427-1000,42.332571,-71.092825,substance abuse,GN,Gender Accepted,MALE
+340,MA,781-838-6757,42.4955957,-71.1236289,substance abuse,PF,Primary Focus of the Provider,SAF
+341,MA,781-306-6000,42.4262974,-71.1111054,mental health,TC,Type of Care,MH
+342,MA,617-534-2922,42.271593,-71.079111,substance abuse,AS,Ancillary Services,HIVT
+343,MA,508-999-1102 x104,41.648514,-70.989701,substance abuse,PF,Primary Focus of the Provider,SAF
+344,MA,617-534-6163,42.2716186,-71.0790073,substance abuse,PF,Primary Focus of the Provider,SAF
+345,MA,508-999-3886,41.6395996,-70.9866026,substance abuse,PF,Primary Focus of the Provider,MHSAF
+346,MA,978-683-3128,42.70707,-71.15546,mental health,TC,Type of Care,MH
+347,MA,617-623-5277 x351,42.3845922,-71.0933031,substance abuse,PF,Primary Focus of the Provider,SAF
+348,MA,617-442-8800 x1284,42.3303947,-71.0826993,substance abuse,PF,Primary Focus of the Provider,SAF
+349,MA,617-971-9360,42.33045255,-71.07429964,substance abuse,PAY,Payment/Insurance Accepted,SF
+350,MA,508-207-9800,41.674167,-70.98532,mental health,TAP,Treatment Approaches,GT
+351,MA,617-325-2993 x2044,42.273887,-71.06976,mental health,TC,Type of Care,MH
+352,MA,617-822-8783,42.2894145,-71.0720545,mental health,TC,Type of Care,MH
+353,MA,617-825-9660,42.289384,-71.071349,substance abuse,PF,Primary Focus of the Provider,MHSAF
+354,MA,617-262-5032,42.337837,-71.078488,substance abuse,PF,Primary Focus of the Provider,SAF
+355,MA,617-445-1123 x321,42.3264779,-71.0746088,substance abuse,AS,Ancillary Services,DP
+356,MA,617-445-1123 x308,42.3267926,-71.075081,substance abuse,PF,Primary Focus of the Provider,MHSAF
+357,MA,978-687-1617,42.70356,-71.143792,mental health,PAY,Payment/Insurance Accepted,SF
+358,MA,617-265-2636,42.2973332,-71.0670408,substance abuse,TAP,Treatment Approaches,CBT
+359,MA,617-506-2378,42.2774856,-71.0657391,mental health,TC,Type of Care,MH
+360,MA,617-445-1123 x111,42.325946,-71.073865,substance abuse,PF,Primary Focus of the Provider,SAF
+361,MA,978-688-4830,42.7047744,-71.1436065,mental health,TC,Type of Care,MH
+362,MA,617-262-7142 x202,42.3355664,-71.0754188,substance abuse,PF,Primary Focus of the Provider,SAF
+363,MA,617-971-9360 x100,42.3306045,-71.0744562,substance abuse,PF,Primary Focus of the Provider,SAF
+364,MA,617-989-1093 x523,42.3225768,-71.0725362,substance abuse,PF,Primary Focus of the Provider,MHSAF
+365,MA,617-587-1905,42.3383601,-71.0748143,substance abuse,PF,Primary Focus of the Provider,SAF
+366,MA,781-986-4800,42.170894,-71.046573,mental health,TC,Type of Care,MH
+367,MA,617-534-2730,42.3337968,-71.0727497,substance abuse,PF,Primary Focus of the Provider,MHSAF
+368,MA,617-287-8000 x8325,42.3119206,-71.0686823,substance abuse,PF,Primary Focus of the Provider,MHSAF
+369,MA,617-626-8700,42.336172,-71.070757,mental health,PAY,Payment/Insurance Accepted,PI
+370,MA,617-318-6480,42.3329172,-71.07011,substance abuse,PF,Primary Focus of the Provider,SAF
+371,MA,617-247-7555,42.3487138,-71.0722817,substance abuse,TC,Type of Care,DB
+372,MA,617-288-1584 x1005,42.3063401,-71.0653931,substance abuse,PF,Primary Focus of the Provider,SAF
+373,MA,617-825-6088 x501,42.317262,-71.067089,substance abuse,PF,Primary Focus of the Provider,SAF
+374,MA,617-849-6994,42.347285,-71.0705,substance abuse,PF,Primary Focus of the Provider,MHSAF
+375,MA,617-288-3230,42.304428,-71.059972,substance abuse,AS,Ancillary Services,HIVT
+376,MA,617-423-9575 x212,42.355009,-71.062956,substance abuse,AS,Ancillary Services,DP
+377,MA,617-288-3906,42.314014,-71.06246,substance abuse,PF,Primary Focus of the Provider,SAF
+378,MA,508-742-4400,42.058483,-71.010301,substance abuse,TC,Type of Care,DM
+379,MA,617-682-0823,42.3847796,-71.071412,substance abuse,TC,Type of Care,SA
+380,MA,508-583-0493,42.10090014,-71.02127688,substance abuse,OL,Other Languages,SP
+381,MA,617-227-2622,42.3577157,-71.0623837,substance abuse,TC,Type of Care,SA
+382,MA,617-724-5600,42.361737,-71.067068,substance abuse,PF,Primary Focus of the Provider,SAF
+383,MA,781-344-0102 x112,42.0823932,-71.0203486,substance abuse,GN,Gender Accepted,MALE
+384,MA,617-636-5000,42.349509,-71.063164,mental health,TC,Type of Care,MH
+385,MA,617-636-0219,42.349509,-71.063164,mental health,TC,Type of Care,MH
+386,MA,781-321-2600,42.427683,-71.076243,substance abuse,PF,Primary Focus of the Provider,SAF
+387,MA,617-912-7800,42.362586,-71.063603,mental health,TC,Type of Care,MH
+388,MA,508-427-4383,42.0680262,-71.0152413,substance abuse,PF,Primary Focus of the Provider,MHSAF
+389,MA,617-643-4699,42.364169,-71.063062,substance abuse,TAP,Treatment Approaches,CBT
+390,MA,617-482-5292,42.356013,-71.061653,substance abuse,AGE,Age Groups Accepted,ADLT
+391,MA,617-268-1700,42.33632,-71.05586,mental health,TAP,Treatment Approaches,TT
+392,MA,508-232-6670,42.0814281,-71.0159243,mental health,TAP,Treatment Approaches,GT
+393,MA,508-232-6670 x530,42.0814281,-71.0159243,substance abuse,TC,Type of Care,SA
+394,MA,508-580-4691,42.0828481,-71.0158483,mental health,SL,Language Services,FX
+395,MA,617-724-5202,42.363848,-71.0616698,mental health,TC,Type of Care,MH
+396,MA,617-482-8819 x1215,42.353481,-71.059437,substance abuse,AS,Ancillary Services,GCO
+397,MA,508-521-1020,42.0823751,-71.0152685,mental health,OL,Other Languages,F19
+398,MA,617-371-3020,42.362347,-71.060583,mental health,TAP,Treatment Approaches,GT
+399,MA,617-269-2933,42.33632,-71.05586,substance abuse,AS,Ancillary Services,HS
+400,MA,508-984-5566,41.6367806,-70.9537948,mental health,TC,Type of Care,MH
+401,MA,781-246-1964 x3015,42.5164533,-71.0867673,mental health,TC,Type of Care,MH
+402,MA,617-371-3030 x3085,42.363831,-71.0595,substance abuse,PF,Primary Focus of the Provider,SAF
+403,MA,508-584-9210,42.057098,-71.0095974,substance abuse,PF,Primary Focus of the Provider,SAF
+404,MA,508-638-6000,42.0578704,-71.0093689,substance abuse,TC,Type of Care,DT
+405,MA,508-408-6190,42.057098,-71.0095974,substance abuse,PF,Primary Focus of the Provider,SAF
+406,MA,617-268-5000,42.332957,-71.053771,substance abuse,AS,Ancillary Services,ICO
+407,MA,617-847-1909,42.228292,-71.0323865,mental health,TAP,Treatment Approaches,GT
+408,MA,617-534-9500,42.330492,-71.049496,substance abuse,PF,Primary Focus of the Provider,SAF
+409,MA,617-242-0088,42.376225,-71.056335,substance abuse,PF,Primary Focus of the Provider,SAF
+410,MA,617-268-7124,42.336084,-71.044376,substance abuse,PAY,Payment/Insurance Accepted,NP
+411,MA,617-643-8080,42.3648166,-71.0537639,mental health,TC,Type of Care,MH
+412,MA,617-268-5517 x308,42.3345029,-71.0377906,substance abuse,GN,Gender Accepted,MALE
+413,MA,781-306-6247,42.4601799,-71.0611084,mental health,TC,Type of Care,MH
+414,MA,617-912-7500,42.3748178,-71.0380175,substance abuse,TC,Type of Care,ACM
+415,MA,617-481-8991,42.2730163,-71.0266331,substance abuse,PF,Primary Focus of the Provider,MHSAF
+416,MA,781-388-6200,42.4038921,-71.0489154,substance abuse,PAY,Payment/Insurance Accepted,PI
+417,MA,617-569-6050,42.38058955,-71.0392471,substance abuse,PF,Primary Focus of the Provider,SAF
+418,MA,617-569-3189,42.374821,-71.03798,mental health,TC,Type of Care,MH
+419,MA,617-607-6351,42.264611,-71.017933,substance abuse,PF,Primary Focus of the Provider,SAF
+420,MA,617-934-1136,42.2645669,-71.0179181,substance abuse,PF,Primary Focus of the Provider,SAF
+421,MA,617-569-2089,42.38063737,-71.03744393,substance abuse,TAP,Treatment Approaches,RELP
+422,MA,508-992-0800,41.6243602,-70.9248251,substance abuse,SL,Language Services,FX
+423,MA,508-996-8572,41.642879,-70.928721,mental health,PAY,Payment/Insurance Accepted,SF
+424,MA,508-897-2069,42.089639,-70.988397,mental health,OL,Other Languages,SP
+425,MA,774-202-4820,41.631787,-70.927499,substance abuse,PF,Primary Focus of the Provider,SAF
+426,MA,508-984-1880,41.641077,-70.928155,substance abuse,PF,Primary Focus of the Provider,SAF
+427,MA,617-773-7023,42.246236,-70.9976949,substance abuse,AGE,Age Groups Accepted,YAD
+428,MA,508-992-8948,41.664265,-70.929264,substance abuse,PF,Primary Focus of the Provider,SAF
+429,MA,617-479-0102,42.247634,-71.001744,substance abuse,OL,Other Languages,SP
+430,MA,617-889-4860,42.391088,-71.036655,mental health,TC,Type of Care,MH
+431,MA,508-771-0550,41.6519567,-70.9245184,mental health,PAY,Payment/Insurance Accepted,MD
+432,MA,617-889-3300,42.391088,-71.036655,substance abuse,PF,Primary Focus of the Provider,MHSAF
+433,MA,617-381-7100,42.409152,-71.039163,mental health,TC,Type of Care,MH
+434,MA,508-996-3147,41.6214394,-70.921287,mental health,TC,Type of Care,MH
+435,MA,508-717-0525,41.651957,-70.924519,substance abuse,TAP,Treatment Approaches,CBT
+436,MA,774-628-1000,41.652688,-70.924652,substance abuse,PF,Primary Focus of the Provider,SAF
+437,MA,508-999-3126,41.6184603,-70.9192719,substance abuse,TC,Type of Care,NXN
+438,MA,508-994-3678,41.665056,-70.9229494,substance abuse,PF,Primary Focus of the Provider,MHSAF
+439,MA,617-770-9690,42.2492537,-71.0028238,mental health,TC,Type of Care,MH
+440,MA,617-471-8400 x100,42.254487,-71.005488,mental health,TC,Type of Care,MH
+441,MA,617-328-0639,42.2492537,-71.0028238,substance abuse,PF,Primary Focus of the Provider,SAF
+442,MA,617-769-7202,42.245615,-71.001094,mental health,TC,Type of Care,MH
+443,MA,978-373-4985,42.8145703,-71.1044405,substance abuse,PF,Primary Focus of the Provider,SAF
+444,MA,617-889-8779,42.3962296,-71.023305,substance abuse,AS,Ancillary Services,ICO
+445,MA,508-763-3737,41.769723,-70.925395,mental health,TC,Type of Care,MH
+446,MA,508-760-1475,41.65194,-70.489728,substance abuse,AS,Ancillary Services,ACC
+447,MA,774-419-1000,41.902126,-70.916287,mental health,AGE,Age Groups Accepted,CHLD
+448,MA,978-372-2181,42.764203,-71.067536,mental health,TAP,Treatment Approaches,AT
+449,MA,781-447-6425 x241,42.068363,-70.948475,mental health,AGE,Age Groups Accepted,SNR
+450,MA,508-746-2000,41.943904,-70.644869,mental health,PAY,Payment/Insurance Accepted,MD
+451,MA,781-246-2010 x2071,42.5095353,-71.0343553,mental health,TC,Type of Care,MH
+452,MA,781-289-9331,42.409016,-71.007003,mental health,TC,Type of Care,MH
+453,MA,617-774-6090,42.238747,-70.98362,mental health,AGE,Age Groups Accepted,YAD
+454,MA,978-373-8222,42.777642,-71.073319,mental health,TC,Type of Care,MH
+455,MA,914-574-9583,42.246795,-70.976531,substance abuse,PF,Primary Focus of the Provider,SAF
+456,MA,508-224-7701,41.887165,-70.537275,mental health,TAP,Treatment Approaches,TT
+457,MA,781-331-3709 x6207,42.175691,-70.9560058,substance abuse,PF,Primary Focus of the Provider,SAF
+458,MA,617-878-2550,42.17075,-70.942791,substance abuse,PF,Primary Focus of the Provider,SAF
+459,MA,978-641-3001 x547,42.7647475,-71.0464659,substance abuse,PF,Primary Focus of the Provider,SAF
+460,MA,978-381-5737,42.7648887,-71.0447859,mental health,TC,Type of Care,MH
+461,MA,978-739-7621,42.5866809,-70.9767743,substance abuse,AGE,Age Groups Accepted,YAD
+462,MA,978-420-1156,42.7648887,-71.0447859,substance abuse,TC,Type of Care,SA
+463,MA,978-739-7664,42.5866809,-70.9767743,substance abuse,GN,Gender Accepted,FEM
+464,MA,781-812-1643,42.2005221,-70.9409978,substance abuse,PF,Primary Focus of the Provider,MHSAF
+465,MA,844-875-7667,42.4532823,-70.9588175,substance abuse,TC,Type of Care,SA
+466,MA,978-535-9190,42.5410893,-70.9872271,substance abuse,PF,Primary Focus of the Provider,SAF
+467,MA,781-477-3950,42.501466,-70.978478,mental health,TC,Type of Care,MH
+468,MA,978-739-7615,42.586803,-70.97731,substance abuse,AS,Ancillary Services,CM
+469,MA,978-777-2121,42.5866809,-70.9767743,substance abuse,PF,Primary Focus of the Provider,SAF
+470,MA,781-584-8490,42.465919,-70.953334,substance abuse,TAP,Treatment Approaches,ANG
+471,MA,781-581-4400 x4473,42.4612473,-70.9512976,substance abuse,PF,Primary Focus of the Provider,MHSAF
+472,MA,978-922-2280,42.5586805,-70.8873532,substance abuse,GN,Gender Accepted,FEM
+473,MA,781-233-1095,42.492776,-70.95645,substance abuse,SG,Special Programs/Groups Offered,WN
+474,MA,781-268-1133,42.4634523,-70.9473729,substance abuse,PF,Primary Focus of the Provider,SAF
+475,MA,781-477-7222,42.463978,-70.9459,mental health,AS,Ancillary Services,STU
+476,MA,781-581-9270,42.4644229,-70.940269,substance abuse,PF,Primary Focus of the Provider,SAF
+477,MA,781-593-9434 x228,42.4651483,-70.937202,substance abuse,TC,Type of Care,SA
+478,MA,781-593-9434 x212,42.465057,-70.936992,substance abuse,PF,Primary Focus of the Provider,SAF
+479,MA,978-774-6820,42.549295,-70.945688,substance abuse,PF,Primary Focus of the Provider,MHF
+480,MA,978-774-6820 x0,42.5493358,-70.9451575,mental health,TC,Type of Care,MH
+481,MA,978-531-9951 x102,42.521932,-70.9251,substance abuse,TC,Type of Care,HH
+482,MA,781-871-6550 x29,42.160444,-70.85996,mental health,TC,Type of Care,MH
+483,MA,781-871-6550 x22,42.1584065,-70.8595483,substance abuse,PF,Primary Focus of the Provider,MHSAF
+484,MA,978-524-7133,42.5181926,-70.8880745,mental health,TC,Type of Care,MH
+485,MA,978-921-1190,42.560959,-70.887338,mental health,TC,Type of Care,MH
+486,MA,978-463-1066,42.814764,-70.890682,mental health,TC,Type of Care,MH
+487,MA,978-834-8448,42.849048,-70.932541,mental health,TAP,Treatment Approaches,CFT
+488,MA,978-948-2346,42.738174,-70.881241,mental health,TC,Type of Care,MH
+489,MA,978-462-7341,42.81134226,-70.87752872,substance abuse,PF,Primary Focus of the Provider,SAF
+490,MA,978-356-9321,42.697136,-70.852065,mental health,TC,Type of Care,MH
+491,MA,508-295-3600,41.763433,-70.684972,mental health,AS,Ancillary Services,CM
+492,MA,508-540-5052,41.5491438,-70.6444807,substance abuse,AS,Ancillary Services,ICO
+493,MA,508-830-0000 x1406,41.9571652,-70.6928807,substance abuse,PF,Primary Focus of the Provider,MHSAF
+494,MA,508-830-0000,41.9569989,-70.6921249,mental health,TC,Type of Care,MH
+495,MA,508-830-3444 x331,41.9786197,-70.6861816,substance abuse,PF,Primary Focus of the Provider,SAF
+496,MA,508-540-6550,41.6002119,-70.6364921,substance abuse,AS,Ancillary Services,STDT
+497,MA,508-295-7990,41.7558371,-70.6462334,substance abuse,PF,Primary Focus of the Provider,SAF
+498,MA,508-457-4404,41.571833,-70.624483,mental health,TC,Type of Care,MH
+499,MA,508-732-8700,41.944451,-70.645117,mental health,TAP,Treatment Approaches,GT
+500,MA,508-830-1234,41.95739786,-70.66676274,substance abuse,TAP,Treatment Approaches,RELP
+501,MA,508-693-7900 x310,41.4197856,-70.5927861,mental health,TC,Type of Care,MH
+502,MA,508-564-9600,41.6885,-70.601958,mental health,AS,Ancillary Services,STU
+503,MA,508-388-7613,41.5826116,-70.5970319,substance abuse,PF,Primary Focus of the Provider,SAF
+504,MA,774-247-4939,41.7456191,-70.6131202,substance abuse,PF,Primary Focus of the Provider,MHSAF
+505,MA,978-283-0296 x201,42.6252131,-70.6806526,substance abuse,PF,Primary Focus of the Provider,SAF
+506,MA,978-283-0296,42.6252131,-70.6806526,mental health,TC,Type of Care,MH
+507,MA,978-381-7422,42.6252131,-70.6806526,substance abuse,PF,Primary Focus of the Provider,SAF
+508,MA,508-224-7701 x2436,41.887157,-70.537288,substance abuse,TC,Type of Care,ACM
+509,MA,508-224-7701 x2420,41.8862435,-70.5381939,substance abuse,PF,Primary Focus of the Provider,SAF
+510,MA,508-790-3375,41.650416,-70.312793,mental health,PAY,Payment/Insurance Accepted,PI
+511,MA,508-862-9929,41.6578658,-70.3301903,substance abuse,EXCL,Exclusive Services,DU
+512,MA,508-778-1839,41.6725212,-70.2982748,mental health,TC,Type of Care,MH
+513,MA,508-862-7670,41.6533189,-70.2730144,mental health,TC,Type of Care,MH
+514,MA,508-398-5155 x2925,41.6866751,-70.2121712,substance abuse,PF,Primary Focus of the Provider,SAF
+515,MA,508-487-2449,42.0607876,-70.1901968,substance abuse,TC,Type of Care,RPN
+516,MA,508-228-2689,41.2742578,-70.1013017,substance abuse,PF,Primary Focus of the Provider,MHSAF
+517,MA,508-896-5776,41.755393,-70.090466,mental health,TC,Type of Care,MH
+518,MA,508-432-4100,41.722677,-70.037061,mental health,TC,Type of Care,MH
+519,MA,508-255-3584,41.7816529,-69.9972357,substance abuse,PF,Primary Focus of the Provider,MHSAF
